@@ -71,14 +71,7 @@
       "price": 300,
       "image": "https://images.unsplash.com/photo-1507764923504-cd90bf7da772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2R1Y3RzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
       "cartQuantity": 0
-    },
-    {
-      "id": 10,
-      "name": "Product 10",
-      "category": "Cosmetics",
-      "price": 350,
-      "image": "https://images.unsplash.com/photo-1531895861208-8504b98fe814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHByb2R1Y3RzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
-      "cartQuantity": 0
     }
+  
   ]
 }
