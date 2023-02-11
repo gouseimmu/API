@@ -1,66 +1,39 @@
 {
   "users": [
     {
+      "id":1,
+      "Username": "Shaik",
+      "Avatar": "https://www.w3schools.com/w3images/avatar6.png",
+      "Email": "abc@gmail.com",
+      "Password": "abc123"
+    }
+  ],
+  "blogs": [
+    {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
-    },
-    {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
-    },
-    {
-      "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
-    },
-    {
-      "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
-    },
-    {
-      "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
-    },
-    {
-      "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
-    },
-    {
-      "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
-    },
-    {
-      "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "username": "Gouse",
+      "title": "Be Absent",
+      "content": "Turning away from.",
+      "category": "Business",
+      "date": "2020-06-05",
+      "likes": 24,
+      "comments": [
+        { "username": "Mane", "content": "Bad One" },
+        { "username": "rob", "content": "Hate It!" }
+      ]
     }
   ]
 }
-
-
